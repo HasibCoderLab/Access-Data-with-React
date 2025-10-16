@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1" ,
+        "name" : "Rahim" ,
+        "age" : "14",
+        "profession" : "Coder"
+
+    },
+    {
+        "id" : "2" ,
+        "name" : "Bayzid" ,
+        "age" : "19",
+        "profession" : "Problem solver"
+
+    },
+    {
+        "id" : "3" ,
+        "name" : "Anis" ,
+        "age" : "20",
+        "profession" : "Bakend Dev"
+
+    },
+    {
+        "id" : "4" ,
+        "name" : "Shihab" ,
+        "age" : "21",
+        "profession" : "Technical Engg.."
+
+    },
+    {
+        "id" : "5" ,
+        "name" : "Kawsar" ,
+        "age" : "18",
+        "profession" : "React Developer"
+
+    },
+    {
+        "id" : "6" ,
+        "name" : "Mahi" ,
+        "age" : "16",
+        "profession" : "Developer"
+
+    }
+]
