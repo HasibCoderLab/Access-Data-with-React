@@ -1,44 +1,112 @@
 [
-    {
-        "id" : "1" ,
-        "name" : "Rahim" ,
-        "age" : "14",
-        "profession" : "Coder"
-
-    },
-    {
-        "id" : "2" ,
-        "name" : "Bayzid" ,
-        "age" : "19",
-        "profession" : "Problem solver"
-
-    },
-    {
-        "id" : "3" ,
-        "name" : "Anis" ,
-        "age" : "20",
-        "profession" : "Bakend Dev"
-
-    },
-    {
-        "id" : "4" ,
-        "name" : "Shihab" ,
-        "age" : "21",
-        "profession" : "Technical Engg.."
-
-    },
-    {
-        "id" : "5" ,
-        "name" : "Kawsar" ,
-        "age" : "18",
-        "profession" : "React Developer"
-
-    },
-    {
-        "id" : "6" ,
-        "name" : "Mahi" ,
-        "age" : "16",
-        "profession" : "Developer"
-
-    }
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 25,
+    "profession": "Web Developer",
+    "email": "alice.johnson@example.com",
+    "website": "https://alicecodes.dev",
+    "phone": "+1-555-123-4567",
+    "img": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "age": 30,
+    "profession": "Graphic Designer",
+    "email": "brian.smith@example.com",
+    "website": "https://briandesigns.art",
+    "phone": "+1-555-234-5678",
+    "img": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clara Lee",
+    "age": 28,
+    "profession": "Data Analyst",
+    "email": "clara.lee@example.com",
+    "website": "https://claradata.io",
+    "phone": "+1-555-345-6789",
+    "img": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "age": 35,
+    "profession": "Cybersecurity Expert",
+    "email": "david.kim@example.com",
+    "website": "https://securewithdavid.com",
+    "phone": "+1-555-456-7890",
+    "img": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ella Brown",
+    "age": 22,
+    "profession": "UI/UX Designer",
+    "email": "ella.brown@example.com",
+    "website": "https://ellabdesigns.com",
+    "phone": "+1-555-567-8901",
+    "img": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "age": 32,
+    "profession": "Software Engineer",
+    "email": "frank.wilson@example.com",
+    "website": "https://frankbuilds.dev",
+    "phone": "+1-555-678-9012",
+    "img": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Grace Taylor",
+    "age": 27,
+    "profession": "Content Writer",
+    "email": "grace.taylor@example.com",
+    "website": "https://gracewrites.me",
+    "phone": "+1-555-789-0123",
+    "img": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Henry Davis",
+    "age": 40,
+    "profession": "Project Manager",
+    "email": "henry.davis@example.com",
+    "website": "https://henrydavis.pro",
+    "phone": "+1-555-890-1234",
+    "img": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Martinez",
+    "age": 26,
+    "profession": "Marketing Specialist",
+    "email": "isabella.martinez@example.com",
+    "website": "https://isabellamarkets.com",
+    "phone": "+1-555-901-2345",
+    "img": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Jack Thompson",
+    "age": 34,
+    "profession": "Mobile App Developer",
+    "email": "jack.thompson@example.com",
+    "website": "https://jackapps.dev",
+    "phone": "+1-555-012-3456",
+    "img": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Karen Lopez",
+    "age": 29,
+    "profession": "AI Researcher",
+    "email": "karen.lopez@example.com",
+    "website": "https://karenai.tech",
+    "phone": "+1-555-123-6789",
+    "img": "https://randomuser.me/api/portraits/women/11.jpg"
+  }
 ]
