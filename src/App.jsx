@@ -13,8 +13,7 @@ fetch('FakeData.json')
 .then(data => setFakeData(data))
 },[])
   return (
-   <div>
-         <h1>Length : {fakeData.length} </h1>
+   <div className=' grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3  gap-12'>       
          {
           fakeData.map( singleData =>  <SingleFakeData
            singleData = {singleData}
